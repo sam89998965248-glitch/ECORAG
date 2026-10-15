@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "topic": "Air Pollution",
+    "keywords": ["air pollution", "smoke", "dust", "industrial emissions", "vehicle emissions"],
+    "content": "Air pollution can result from vehicle exhaust, industrial emissions, dust, and burning waste. Reducing emissions and avoiding open waste burning can help improve air quality.",
+    "source_name": "World Health Organization - Air Pollution",
+    "source_url": "https://www.who.int/health-topics/air-pollution"
+  },
+  {
+    "id": 2,
+    "topic": "Water Pollution",
+    "keywords": ["water pollution", "dirty water", "sewage", "river", "water contamination", "chemical discharge"],
+    "content": "Water pollution can occur when sewage, chemicals, and other waste enter rivers, lakes, or groundwater. Preventing waste disposal into water bodies and managing wastewater appropriately can help protect water quality.",
+    "source_name": "World Health Organization - Water, Sanitation and Health",
+    "source_url": "https://www.who.int/health-topics/water-sanitation-and-health"
+  },
+  {
+    "id": 3,
+    "topic": "Waste Management",
+    "keywords": ["waste", "garbage", "plastic", "litter", "dumping", "solid waste"],
+    "content": "Poor waste management can pollute land and water. Waste reduction, reuse, recycling, safe collection, and appropriate disposal are important ways to improve waste management.",
+    "source_name": "United Nations Environment Programme - Waste",
+    "source_url": "https://www.unep.org/explore-topics/resource-efficiency/what-we-do/cities/solid-waste-management"
+  },
+  {
+    "id": 4,
+    "topic": "Noise Pollution",
+    "keywords": ["noise", "loud sound", "traffic noise", "construction noise", "loudspeaker"],
+    "content": "Environmental noise can come from road traffic, construction, industry, and other activities. Excessive noise can affect sleep and wellbeing. Recording the time and location can help when reporting a noise problem.",
+    "source_name": "World Health Organization - Environmental Noise",
+    "source_url": "https://www.who.int/europe/health-topics/noise"
+  }
+]
