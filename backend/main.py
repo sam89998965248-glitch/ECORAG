@@ -12,10 +12,11 @@ app = FastAPI(title="EcoRAG API")
 # Allow the React frontend to connect
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://localhost:5174"
-    ],
+   allow_origins=[
+    "http://localhost:5173",
+    "http://localhost:5174",
+    "https://ecorag.vercel.app"
+],
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
